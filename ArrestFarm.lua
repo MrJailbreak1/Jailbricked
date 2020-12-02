@@ -14,7 +14,7 @@ local Hashes = {
     GetDonut = "d8dd0fb1",
     EatDonut = "f9b0feb0",
     EnterVehicle = "d5402de0",
-    LockCar = "a9e7d24a"
+    LockCar = "a9e7d24a
     --
 }
 
